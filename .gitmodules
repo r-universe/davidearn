@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "epigrowthfit"]
+	path = epigrowthfit
+	url = https://github.com/davidearn/epigrowthfit
 [submodule "fastbeta"]
 	path = fastbeta
 	url = https://github.com/davidearn/fastbeta
